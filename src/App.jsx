@@ -9,6 +9,7 @@ function App() {
       <Nav />
 
       <main className="mx-3">
+        <h1>Hello World</h1>
         <Outlet />
       </main>
     </>
